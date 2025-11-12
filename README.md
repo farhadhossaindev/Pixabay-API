@@ -4,9 +4,7 @@ A simple React app using the Pixabay API to search and filter images, styled wit
 
 🔗 Live Demo
 
-Add your live site link here:
-
-[LIVE LINK](https://pixabay-api-integration.netlify.app/)
+live site link here: [LIVE LINK](https://pixabay-api-integration.netlify.app/)
 
 ✨ Features
 
